@@ -1,0 +1,1 @@
+print("Never quit unless you are satisfied with the work you started")
